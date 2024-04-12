@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hey, I'm Sergii! 👋
 
 [![Linkedin: Sergii Safonov](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bapohka/)](https://www.linkedin.com/in/bapohka/)
-<a href="http://t.me/bapohka"><img src="./assets/telegram.png" height="78" width="78" alt="Contact me with Telegram"></a>
+<a href="http://t.me/bapohka"><img src="./assets/telegram.png" height="20" width="65" alt="Contact me with Telegram"></a>
 ![GitHub followers](https://img.shields.io/github/followers/bapohka?label=Follow&style=social)
 
 
