@@ -40,7 +40,8 @@ My first bot, made using python, gemini api and telegram-bot library, without st
 <hr>
 
 ### Filecloud.me
+<a href="https://filecloud.me/" target="_blank"><img align="left" src="./assets/filecloud.png"></a>
 File exchange service for fast and ad-free file exchange
-<a href="https://filecloud.me/" target="_blank"></a>
+
 
 <hr>
