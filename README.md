@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey, I'm Sergii! 👋
 
 <!--
 **bapohka/bapohka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Sergii! 👋
 
 [![Linkedin: Sergii Safonov](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bapohka/)](https://www.linkedin.com/in/bapohka/)
 <a href="http://t.me/bapohka"><img src="./assets/telegram.png" height="20" width="30" alt="Contact me with Telegram"></a>
 ![GitHub followers](https://img.shields.io/github/followers/bapohka?label=Follow&style=social)
 
+<img src="./assets/photo.jpg" align="right" height="150">
 
-I am a 31 year old quality asurance and test engineer from Ukraine.
+I am a 31 year old quality asurance and test engineer with 11y exp 
+I am from Ukraine, Odesa.
 
 I like:
 - 🤖 Put my hands inside of computers / Arduino / IoT
