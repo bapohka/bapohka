@@ -34,7 +34,7 @@ I like:
 # Proudest Projects
 
 <a href="https://github.com/bapohka/telegram-chatbot-gemini" target="_blank"><img align="left" height="80" src="./assets/tgbot.jpg"></a>
-### Telegram bot, using Google Gemini api for answer questions
+### [Telegram bot](https://github.com/bapohka/telegram-chatbot-gemini), using Google Gemini api for answer questions
 My first bot, made using python, gemini api and telegram-bot library, without strict censorship in it
 
 <hr>
