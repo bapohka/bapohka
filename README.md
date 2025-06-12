@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 <img src="./assets/photo.jpg" align="right" height="150">
 
-I am a 31 year old quality asurance and test engineer with 11y exp 
+I am a 36 year old quality assurance and test engineer with more than 11y exp 
 I am from Ukraine, Odesa :ukraine:.
 
 I like:
 - 🤖 Put my hands inside of computers / Arduino / IoT
 - 🐍 I’m currently learning Python
 - ⚡ Fun fact: testing haunts me throughout my life, and if there is any imperfection in the processes, I will face it
-- 🌐 now live in Thailand
+- 🌐 now live in Thailand :thailand:
 
 # Proudest Projects
 
