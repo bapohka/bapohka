@@ -33,7 +33,9 @@ I like:
 - 🤖 Put my hands inside of computers / Arduino / IoT
 - 🐍 I’m currently learning Python
 - ⚡ Fun fact: testing haunts me throughout my life, and if there is any imperfection in the processes, I will face it
-- 🌐 now live in Thailand :thailand:
+- 🌐 2022-2025 lived in Thailand :thailand:
+- 🫀 While lived in Thailand I understand, that a lot of people are messed with how this country works. So I started volunteering for Ukrainian community - created guides, gave bureaucracy tips, help people in police and hospitals and a lot of more solved issues :safety_pin:
+- :accessibility: Live in Sweden! 🇸🇪
 
 # Proudest Projects
 
@@ -46,5 +48,11 @@ My first bot, made using python, gemini api and telegram-bot library, without st
 <a href="https://filecloud.me/" target="_blank"><img align="left" height="40" src="./assets/filecloud.png"></a>
 ### [Filecloud.me](https://filecloud.me/)
 File exchange service for fast and ad-free file exchange
+
+<hr>
+
+<a href="https://pure.app" target="_blank"><img align="left" height="60" src="./assets/pureapp.png"></a>
+### [Pure.app](https://pure.app/)
+The best dating app without borders. For 5 Years I constantly made this app better 📱 
 
 <hr>
