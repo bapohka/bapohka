@@ -56,3 +56,13 @@ File exchange service for fast and ad-free file exchange
 The best dating app without borders. For 5 Years I constantly made this app better 📱 
 
 <hr>
+
+### [Renovation of Pagoda in Koh Samui, Thailand](https://aseannow.com/topic/1350347-ukrainian-volunteers-renovate-pra-buddha-d%C4%ABpankara-pagoda/#google_vignette)
+It was a totally new volunteering experience for me. Gathering with several people, receiving blessing from monks, communication and planning with people speaking only Thai language, crazy bamboo construction and a lot of bad roads heading to that hill every morning for several months.
+
+<img width="932" height="632" alt="image" src="./assets/firefox_NT5aSmprQF.png" />
+
+[![This is how we did that](https://img.youtube.com/vi/3IOCq2GubxY/0.jpg)](https://www.youtube.com/watch?v=3IOCq2GubxY)
+
+
+<hr>
