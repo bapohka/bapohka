@@ -35,7 +35,7 @@ I like:
 - ⚡ Fun fact: testing haunts me throughout my life, and if there is any imperfection in the processes, I will face it
 - 🌐 2022-2025 lived in Thailand :thailand:
 - 🫀 While lived in Thailand I understand, that a lot of people are messed with how this country works. So I started volunteering for Ukrainian community - created guides, gave bureaucracy tips, help people in police and hospitals and a lot of more solved issues :safety_pin:
-- :accessibility: Live in Sweden! 🇸🇪
+- :accessibility: Live in Sweden, Örebro from September 2025! 🇸🇪
 
 # Proudest Projects
 
